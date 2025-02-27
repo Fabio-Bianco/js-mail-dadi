@@ -13,3 +13,12 @@ Chiedi all’utente la sua email, controlla che sia nella lista di chi può acce
 
 ##### Output
 - Messaggio sull'esito del controllo;
+
+##### Pseudocodice:
+- Creo un Array contenente la lista delle email;
+- Creo una variabile con un promt che chiede all'utente l'inserimento della email;
+- creo un avariabile booleana;
+- creo un ciclo 'for' che itera la lista e ne confronta gli elementi con una variabile booleana;
+- comunico all'utente l'esito;
+
+ 
