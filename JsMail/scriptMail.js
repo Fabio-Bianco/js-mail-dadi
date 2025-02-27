@@ -1,8 +1,8 @@
 const list = [
-    "andrea.rossi123@mail.com",
-    "giulia.bianchi87@gmail.com",
+    "michele.rossi123@mail.com",
+    "marcello.bianchi87@gmail.com",
     "marco.verdi55@yahoo.it",
-    "francesca.neri22@outlook.com",
+    "filippo.neri22@outlook.com",
     "luca.martini99@protonmail.com",
     "elena.ricci77@hotmail.com",
     "simone.ferri33@live.com",
