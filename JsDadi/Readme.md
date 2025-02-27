@@ -14,3 +14,5 @@ Stabilire il vincitore, in base a chi fa il punteggio più alto.
 
 ##### Output
 - Messaggio sull'esito del gioco;
+
+Creo una funzione che generi dei numeri random da 1 a 6
